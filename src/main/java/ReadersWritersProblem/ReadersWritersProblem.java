@@ -1,3 +1,5 @@
+package ReadersWritersProblem;
+
 import java.util.concurrent.Semaphore;
 
 public class ReadersWritersProblem {
